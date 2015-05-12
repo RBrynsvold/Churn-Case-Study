@@ -2,8 +2,8 @@
 
 A ride-sharing company (Company X) is interested in predicting rider retention.
 To help explore this question, we have provided a sample dataset of a cohort of 
-users who signed up for an account in January 2014. The data was pulled several
-months later; we consider a user retained if they were “active” (i.e. took a trip) in 
+users who signed up for an account in January 2014. The data was pulled on July 1, 2014; 
+we consider a user retained if they were “active” (i.e. took a trip) in 
 the preceding 30 days (from the day the data was pulled). Assume the latest day of
 `last_trip_date` to be when the data was pulled. The data is `churn.csv` in the 
 [data](data) folder.
