@@ -41,7 +41,7 @@ weekday_pct: the percent of the user’s trips occurring during a weekday
  
 4. Identify / interpret features that are the most influential in affecting your predictions
 
-5. Discuss the validity of your model. Issue such as [leakage](https://www.kaggle.com/wiki/Leakage)
+5. Discuss the validity of your model. Issues such as [leakage](https://www.kaggle.com/wiki/Leakage)
 
 6. Repeat 2 - 5 until you have a satisfatory model
    
@@ -50,8 +50,8 @@ weekday_pct: the percent of the user’s trips occurring during a weekday
 - Code you used to build the model (submit via pull request)
 
 - A (verbal) presentation including the following points:
-    - How did you computed the target?
+    - How did you compute the target?
     - What model did you use in the end? Why?
-    - Alternative models you have considered. Why are they not good enough?
+    - Alternative models you considered? Why are they not good enough?
     - What performance metric did you use? Why?
-    - Based on insights from the model, actionable plans to reduce churn
+    - Based on insights from the model, what actionable plans do you propose to reduce churn?
