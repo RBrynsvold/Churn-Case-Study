@@ -43,7 +43,7 @@ weekday_pct: the percent of the user’s trips occurring during a weekday
 
 5. Discuss the validity of your model. Issues such as [leakage](https://www.kaggle.com/wiki/Leakage)
 
-6. Repeat 2 - 5 until you have a satisfatory model
+6. Repeat 2 - 5 until you have a satisfactory model
    
 ##Deliverables
 
