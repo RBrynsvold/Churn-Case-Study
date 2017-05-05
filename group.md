@@ -1,4 +1,4 @@
-##Case Study - Churn Prediction
+## Case Study - Churn Prediction
 
 A ride-sharing company (Company X) is interested in predicting rider retention.
 To help explore this question, we have provided a sample dataset of a cohort of 
@@ -30,7 +30,7 @@ luxury_car_user: TRUE if the user took a luxury car in their first 30 days; FALS
 weekday_pct: the percent of the user’s trips occurring during a weekday
 ```
 
-##Work Flow
+## Work Flow
 
 1. Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
    data for this analysis.
@@ -45,9 +45,9 @@ weekday_pct: the percent of the user’s trips occurring during a weekday
 
 6. Repeat 2 - 5 until you have a satisfactory model
    
-##Deliverables
+## Deliverables
 
-- Code you used to build the model (submit via pull request)
+- Code you used to build the model.
 
 - A (verbal) presentation including the following points:
     - How did you compute the target?
