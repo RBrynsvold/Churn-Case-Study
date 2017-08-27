@@ -4,8 +4,16 @@
 ## Executive Summary
 
 
-## Detailed Write-Up
-PUT IN A TABLE OF CONTENTS HERE?
+## Table of Contents
+1. [Motivation](#Motivation)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+## Example
+## Example2
+## Third Example
 
 
 ### Motivation
@@ -17,7 +25,7 @@ we consider a user retained if they were “active” (i.e. took a trip) in
 the preceding 30 days (from the day the data was pulled). In other words, a user is "active"
 if they have taken a trip since June 1, 2014.
 
-I was interesed in understanding **what factors are the best predictors for retention**, and 
+I was interesed in understanding what factors are the best predictors for retention, and 
 operationalizing those insights to help Company X.
 
 Here is a detailed description of the data:
@@ -36,7 +44,7 @@ trips_in_first_30_days: the number of trips this user took in the first 30 days 
 luxury_car_user: TRUE if the user took a luxury car in their first 30 days; FALSE otherwise
 weekday_pct: the percent of the user’s trips occurring during a weekday
 ```
-_Note that dataset cannot be shared in this public repository_
+_Note that this dataset cannot be shared in this public repository_
 
 ### Work Flow
 
