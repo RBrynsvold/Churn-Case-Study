@@ -69,13 +69,8 @@ In fitting and evaluating our respective models, each group member followed this
 
 ### Results <a name="results"></a>
 
-The best out-of-set predictive performance was obtained with the Gradient Boosted Trees (GBT) model,
+The best out-of-sample predictive performance was obtained with the Gradient Boosted Trees model,
 with an accuracy of 79.2%
-
-For details on the performance of the other models (including a ROC curve for each), see the 
-slides included in this repository.
-
-### Conclusions <a name="conclusions"></a>
 
 The feature importance scoring of the Gradient Boosted Trees model yielded the following as the 
 three most important features:
@@ -83,6 +78,11 @@ three most important features:
 1. city
 2. weekday_pct
 3. surge_pct
+
+For details on the performance of the other models (including a ROC curve for each), see the 
+slides included in this repository.
+
+### Conclusions <a name="conclusions"></a>
 
  The importance of the 'city' feature would suggest that (as would be expected) different markets
  will have different customer engagement with and loyalty toward the ridesharing service, and 
