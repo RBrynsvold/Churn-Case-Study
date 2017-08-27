@@ -5,7 +5,7 @@
 
 
 ## Table of Contents
-1. [Motivation](#Motivation)
+1. [Motivation](#motivation)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 2. [Example2](#example2)
@@ -16,7 +16,7 @@
 ## Third Example
 
 
-### Motivation
+### Motivation <a name="motivation"></a>
 
 A ride-sharing company (Company X) is interested in predicting rider retention.
 To help explore this question, I examined a sample dataset of a cohort of 
