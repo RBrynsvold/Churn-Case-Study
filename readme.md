@@ -65,7 +65,7 @@ models were:
 
 The target in all of these model predictions was whether or not a customer would churn.
 
-In fitting and evaluating our respective models, each group member followed this general **Work Flow**:
+In fitting and evaluating our respective models, each group member followed this general Work Flow:
 
 1. Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
    data for this analysis 
