@@ -4,3 +4,4 @@ Today we are going to use all the skills we have learned to tackle a real proble
 is churn prediction with a ride-sharing company in San Francisco.
 Since the data is sourced from a real company, we ask you not to share
 the dataset. See more about the problem in [group.md](group.md). 
+# Churn-Case-Study
