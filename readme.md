@@ -6,14 +6,9 @@
 
 ## Table of Contents
 1. [Motivation](#motivation)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
-## Example
-## Example2
-## Third Example
+2. [Analysis](#analysis)
+3. [Results](#results)
+4. [Conclusions](#conclusions)
 
 
 ### Motivation <a name="motivation"></a>
@@ -46,7 +41,11 @@ weekday_pct: the percent of the user’s trips occurring during a weekday
 ```
 _Note that this dataset cannot be shared in this public repository_
 
-### Work Flow
+### Analysis <a name="analysis"></a>
+
+The case study team decided to approach this 
+
+**Work Flow**
 
 1. Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
    data for this analysis.
@@ -61,12 +60,9 @@ _Note that this dataset cannot be shared in this public repository_
 
 6. Repeat 2 - 5 until a satisfactory model is developed.
 
-### Analysis
 
-The case study team decided to approach this 
-
-### Results
+### Results <a name="results"></a>
 
 
-### Conclusions
+### Conclusions <a name="conclusions"></a>
 
