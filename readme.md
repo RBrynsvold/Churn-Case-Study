@@ -1,9 +1,12 @@
 # Case Study - Churn Prediction
 
+
 ## Executive Summary
+
 
 ## Detailed Write-Up
 PUT IN A TABLE OF CONTENTS HERE?
+
 
 ### Motivation
 
@@ -33,6 +36,7 @@ trips_in_first_30_days: the number of trips this user took in the first 30 days 
 luxury_car_user: TRUE if the user took a luxury car in their first 30 days; FALSE otherwise
 weekday_pct: the percent of the user’s trips occurring during a weekday
 ```
+_Note that dataset cannot be shared in this public repository_
 
 ### Work Flow
 
@@ -47,5 +51,14 @@ weekday_pct: the percent of the user’s trips occurring during a weekday
 
 5. Evaluate the validity of the model.
 
-6. Repeat 2 - 5 until you have a satisfactory model.
+6. Repeat 2 - 5 until a satisfactory model is developed.
+
+### Analysis
+
+The case study team decided to approach this 
+
+### Results
+
+
+### Conclusions
 
