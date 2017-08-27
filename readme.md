@@ -5,10 +5,11 @@
 
 An out-of-sample customer churn prediction performance of 79.2% was acheived with a Gradient 
 Boosted Trees model.  According to this model, to decrease customer churn executives should focus 
-customer recruitment resources on low-churn cities and weekday riders (i.e. commuters), and pursue further analysis of surge price effects to understand the tradeoff between the increased profits from surge pricing and the 
-possible losses from surge-driven customer churn.  
+customer recruitment resources on low-churn cities and weekday riders (i.e. commuters), and pursue 
+further analysis to understand the tradeoff between the increased profits from surge pricing and 
+the possible losses from surge-driven customer churn.  
 
-There was considerable disagreement on relative feature importance between different but 
+There was considerable disagreement on relative feature importances between different but 
 similarly-performing models, so further study and analysis is strongly recommended prior to
 expending large resources enacting the above recommendations.
 
