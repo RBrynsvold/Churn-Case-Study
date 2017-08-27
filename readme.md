@@ -1,4 +1,11 @@
-## Case Study - Churn Prediction
+# Case Study - Churn Prediction
+
+## Executive Summary
+
+## Detailed Write-Up
+PUT IN A TABLE OF CONTENTS HERE?
+
+### Motivation
 
 A ride-sharing company (Company X) is interested in predicting rider retention.
 To help explore this question, I examined a sample dataset of a cohort of 
@@ -27,7 +34,7 @@ luxury_car_user: TRUE if the user took a luxury car in their first 30 days; FALS
 weekday_pct: the percent of the user’s trips occurring during a weekday
 ```
 
-## Work Flow
+### Work Flow
 
 1. Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
    data for this analysis.
